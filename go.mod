@@ -42,11 +42,11 @@ require (
 	github.com/urfave/cli/v2 v2.6.0
 	go.uber.org/zap v1.21.0
 	golang.org/x/exp v0.0.0-20220407100705-7b9b53b0aca4
-	golang.org/x/sys v0.0.0-20220412211240-33da011f77ad // indirect
+	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f // indirect
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
 	google.golang.org/protobuf v1.28.0
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	gopkg.in/yaml.v3 v3.0.1
 	k8s.io/utils v0.0.0-20220210201930-3a6ce19ff2f9
 )
 
@@ -68,7 +68,7 @@ require (
 	github.com/Masterminds/goutils v1.1.1 // indirect
 	github.com/Masterminds/semver v1.5.0 // indirect
 	github.com/Masterminds/semver/v3 v3.1.1 // indirect
-	github.com/Microsoft/go-winio v0.5.1 // indirect
+	github.com/Microsoft/go-winio v0.5.2 // indirect
 	github.com/OneOfOne/xxhash v1.2.8 // indirect
 	github.com/ProtonMail/go-crypto v0.0.0-20210428141323-04723f9f07d7 // indirect
 	github.com/VividCortex/ewma v1.1.1 // indirect
@@ -82,7 +82,7 @@ require (
 	github.com/bmatcuk/doublestar v1.3.4 // indirect
 	github.com/briandowns/spinner v1.12.0 // indirect
 	github.com/cespare/xxhash/v2 v2.1.2 // indirect
-	github.com/containerd/containerd v1.6.3-0.20220401172941-5ff8fce1fcc6 // indirect
+	github.com/containerd/containerd v1.6.18 // indirect
 	github.com/containerd/stargz-snapshotter/estargz v0.11.3 // indirect
 	github.com/containerd/typeurl v1.0.2 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.1 // indirect
@@ -141,7 +141,7 @@ require (
 	github.com/morikuni/aec v1.0.0 // indirect
 	github.com/opencontainers/go-digest v1.0.0 // indirect
 	github.com/opencontainers/image-spec v1.0.3-0.20211202183452-c5a74bcca799 // indirect
-	github.com/opencontainers/runc v1.1.1 // indirect
+	github.com/opencontainers/runc v1.1.2 // indirect
 	github.com/owenrumney/squealer v1.0.1-0.20220510063705-c0be93f0edea // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
@@ -170,7 +170,7 @@ require (
 	go.uber.org/multierr v1.6.0 // indirect
 	golang.org/x/crypto v0.0.0-20220315160706-3147a52a75dd
 	golang.org/x/mod v0.6.0-dev.0.20211013180041-c96bc1413d57 // indirect
-	golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd // indirect
+	golang.org/x/net v0.0.0-20220722155237-a158d28d115b // indirect
 	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8 // indirect
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211 // indirect
@@ -178,8 +178,8 @@ require (
 	golang.org/x/tools v0.1.8 // indirect
 	google.golang.org/api v0.62.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
-	google.golang.org/genproto v0.0.0-20220204002441-d6cc3cc0770e // indirect
-	google.golang.org/grpc v1.46.0 // indirect
+	google.golang.org/genproto v0.0.0-20220502173005-c8bf987b8c21 // indirect
+	google.golang.org/grpc v1.47.0 // indirect
 	gopkg.in/cheggaaa/pb.v1 v1.0.28 // indirect
 	gopkg.in/go-playground/validator.v9 v9.31.0 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
